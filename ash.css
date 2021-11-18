@@ -1,0 +1,38 @@
+body{
+  padding-top: 20px;
+  text-align: center;
+  font-size: 2rem;
+  background-color: #11324D;
+}
+h1{
+  font-family: cursive;
+}
+.container{
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+.btn{
+  display: inline-block;
+  margin: 25px;
+  height: 200px;
+  width: 200px;
+border-radius: 100px;
+border: 10px solid black;
+}
+.green{
+  background-color: green;
+}
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+.yellow{
+  background-color: yellow;
+}
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
